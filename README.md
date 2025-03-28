@@ -90,13 +90,5 @@ Key datasets include:
 ## Results and Implications
 The cumulative fireshed score demonstrated strong predictive power, as areas with higher burn counts consistently correlated with higher cumulative scores. The delineation of PODs enhanced operational planning by integrating local fire management expertise and spatial analysis, aiding decision-making for wildfire prevention and response. The HTML map of refined POD boundaries significantly increased accessibility and usability for BCWS staff and collaborators.
 
-## How to Use
-1. Clone this repository to your local machine.
-2. Access the **code/** directory for scripts used in scoring and delineation.
-3. Use the **data/** directory for raw and processed data.
-4. Refer to the **methods/** directory for detailed methodology.
-5. Utilize the **scripts/calibration/** directory for cumulative score calibration scripts.
-6. Utilize the **scripts/html/** directory for HTML map generation scripts.
-7. Visualize results from the **results/** directory, including HTML maps of refined POD boundaries.
 
 For further questions or collaboration, contact Nima Karimi at nima.karimi@forsite.ca.
