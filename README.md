@@ -92,3 +92,8 @@ The cumulative fireshed score demonstrated strong predictive power, as areas wit
 
 
 For further questions or collaboration, contact Nima Karimi at nima.karimi@forsite.ca.
+
+
+
+
+[View the analysis script] (scripts/Fireshed_Score_Calibration.R)
