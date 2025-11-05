@@ -91,3 +91,6 @@ Ensure all necessary packages are installed using:
 
 ## Contact
 For any issues or questions, please contact **Nima Karimi** at nima.karimi@forsite.ca.
+
+
+[View the analysis script] (scripts/Fireshed_Score_Calibration.R)
